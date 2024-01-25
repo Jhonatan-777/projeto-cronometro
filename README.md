@@ -1,5 +1,4 @@
 <h1 align="center"> Projeto Cronometro JS </h1>
-<img src='https://github.com/Jhonatan-777/projeto-cronometro/assets/155544904/2fb36834-ff44-4f8d-8296-d4e11f35accb' width='800px' height='400px'>
 
 
 <h2>Descrição do projeto</h2>
